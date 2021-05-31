@@ -1,5 +1,6 @@
 # Traffic-Sign-Detection-with-CapsNets
-Traffic sign detection with capsule networks
+
+Detecting the traffic signs with capsule networks
 
 
 Dataset: German Traffic Sign Recognition Benchmark dataset [1].
